@@ -1,6 +1,6 @@
 # Fireroof
 
-**Fireroof** is a lightweight Minecraft plugin for Spigot/Paper 1.16.x - 1.21.x that creates a dynamic fiery roof effect above players when they cross certain height thresholds in the Overworld or Nether.
+**Fireroof** is a lightweight Minecraft plugin for Spigot/Paper 1.16.x - 1.21.1 that creates a dynamic fiery roof effect above players when they cross certain height thresholds in the Overworld or Nether.
 
 This can be used for aesthetic purposes, danger indicators, or custom map design effects.
 
