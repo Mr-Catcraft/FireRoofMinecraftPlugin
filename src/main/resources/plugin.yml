@@ -1,0 +1,4 @@
+name: Fireroof
+version: '${project.version}'
+main: org.mr_catcraft.fireroof.Fireroof
+api-version: '1.20'
