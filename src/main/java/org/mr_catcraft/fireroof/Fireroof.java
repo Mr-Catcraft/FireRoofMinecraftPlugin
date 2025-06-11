@@ -40,7 +40,7 @@ public class Fireroof extends JavaPlugin implements Listener {
     }
 
     private void ignitePlayer(Player player) {
-        player.setFireTicks(20); // Set player on fire for 1 second
+        player.setFireTicks(20);
         player.getWorld().spawnParticle(Particle.FLAME, player.getLocation(), 5, 0.5, 0.5, 0.5);
 
         new BukkitRunnable() {
